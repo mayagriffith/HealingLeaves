@@ -1,0 +1,5 @@
+__pycache__/
+cyclegan_test/
+data/
+*.tar
+
