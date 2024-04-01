@@ -13,7 +13,7 @@
 #training
 
 python3 -u train.py \
-    --batch_size 4 \
+    --batch_size 1 \
     --lr 1e-5 \
     --logger_freq 1 \
     --gpu 1 \
